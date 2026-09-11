@@ -1,4 +1,4 @@
-# Serin Jeba D Portfolio
+# Serin Jeba D 
 
 This is a responsive personal portfolio website for Serin Jeba D, built using plain HTML, CSS, and JavaScript for easy deployment on GitHub Pages.
 
